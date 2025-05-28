@@ -15,7 +15,7 @@ process.stdin.on("data", function (data: string) {
       { name: "second", seconds: 1 },
     ];
 
-    let result: string[] = [];
+    const result: string[] = [];
 
     units.forEach((unit) => {
       const quantity = Math.floor(seconds / unit.seconds);
