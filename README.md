@@ -65,3 +65,11 @@ Y mostrará:
 ```yaml
 2 hours
 ```
+
+## 👩‍💻 Autora
+
+**Doménica Vintimilla**
+
+- GitHub: [@ShootDomy](https://github.com/ShootDomy)
+- Correo: [canizaresdomenica4@gmail.com](canizaresdomenica4@gmail.com)
+- LinkedIn: [domenica-vintimilla](https://www.linkedin.com/in/domenica-vintimilla-24a735245/)
