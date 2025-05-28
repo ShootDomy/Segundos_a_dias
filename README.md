@@ -46,7 +46,7 @@ npx tsc
 4. Ejecuta el archivo compilado:
 
 ```bash
-node segundosDias.js
+ npx ts-node segundosDias.ts
 
 ```
 
